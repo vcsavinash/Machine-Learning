@@ -1,0 +1,251 @@
+Microsoft Windows [Version 10.0.15063]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Sreevatsa H V>cd C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\car
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\car>python network.py car_preprocessed.csv 60 100 3 10 6 2
+Layer 0:
+        Neuron0 weights : [ 0.71512368  0.18941868  0.80655025  0.02099218  0.32984787  0.19257072
+  0.14538637  0.39449493  0.74076846  0.57396891]
+        Neuron1 weights : [ 0.60066871  0.48480911  0.52377347  0.44015134  0.71930903  0.07578655
+  0.75694446  0.23226009  0.22648897  0.52258554]
+        Neuron2 weights : [ 0.84721947  0.70760508  0.92177111  0.90135272  0.83201432  0.89151631
+  0.84102111  0.3571124   0.43756211  0.73966735]
+        Neuron3 weights : [ 0.28151942  0.74076794  0.65605843  0.87113132  0.33757839  0.25032157
+  0.04232979  0.92932059  0.43492096  0.5814559 ]
+        Neuron4 weights : [ 0.58287713  0.46519921  0.45058527  0.30476714  0.62189107  0.14987237
+  0.80532815  0.88661758  0.79768272  0.13293968]
+        Neuron5 weights : [ 0.08052464  0.71858445  0.24868926  0.6363745   0.5302404   0.08411262
+  0.05792722  0.7268657   0.46335827  0.6538505 ]
+Layer 1:
+        Neuron0 weights : [ 0.09168362  0.17638936  0.22939748  0.79711165  0.69161705  0.21771387]
+        Neuron1 weights : [ 0.48137455  0.2126967   0.75298806  0.54337468  0.36709591  0.01329443]
+        Neuron2 weights : [ 0.47796823  0.49138965  0.411849    0.61645363  0.15410618  0.16563237]
+        Neuron3 weights : [ 0.67533067  0.72451032  0.19363376  0.22655055  0.12935391  0.78220856]
+        Neuron4 weights : [ 0.54932137  0.30663273  0.27038892  0.42285355  0.3416154   0.94841199]
+        Neuron5 weights : [ 0.2876976   0.70806712  0.11838804  0.56607885  0.20016702  0.7482979 ]
+        Neuron6 weights : [ 0.2219064   0.06823569  0.82662706  0.91116809  0.26040099  0.67764913]
+        Neuron7 weights : [ 0.04372217  0.92186499  0.20814825  0.83475729  0.81464593  0.08478088]
+        Neuron8 weights : [ 0.61043452  0.84321883  0.65697975  0.65268905  0.43144453  0.80050947]
+        Neuron9 weights : [ 0.92399276  0.32842979  0.60330288  0.14442538  0.62393228  0.23933028]
+        Neuron10 weights : [ 0.8178389   0.33881906  0.16964547  0.4074348   0.90004507  0.41917071]
+Layer 2:
+        Neuron0 weights : [ 0.20920375  0.86276865]
+        Neuron1 weights : [ 0.35890237  0.45781726]
+        Neuron2 weights : [ 0.47946866  0.83790099]
+        Neuron3 weights : [ 0.18603423  0.22105529]
+        Neuron4 weights : [ 0.3706551   0.43684408]
+        Neuron5 weights : [ 0.58281018  0.62848164]
+        Neuron6 weights : [ 0.13988498  0.73464184]
+Layer 3:
+        Neuron0 weights : [-0.16082288]
+        Neuron1 weights : [-0.7690738]
+        Neuron2 weights : [-1.00692424]
+Total training error = 0.0609902161317
+Total test error = 0.0635097402597
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\car>python network.py car_preprocessed.csv 80 100 3 10 6 2
+Layer 0:
+        Neuron0 weights : [ 0.5898069   0.86972771  0.0676075   0.85690153  0.70530317  0.72850949
+  0.66692864  0.86114732  0.6234108   0.79690432]
+        Neuron1 weights : [ 0.21598903  0.07629046  0.32276706  0.85754003  0.83652624  0.44280568
+  0.8115844   0.01781854  0.24432781  0.74227976]
+        Neuron2 weights : [ 0.88659079  0.94873304  0.64104942  0.91670623  0.74444234  0.61284609
+  0.93356865  0.97920095 -0.00992508  0.54719022]
+        Neuron3 weights : [ 0.30058075  0.33119278  0.45152674  0.25138432  0.7883675   0.03834492
+  0.63293693  0.78419239  0.26481035  0.05446159]
+        Neuron4 weights : [ 0.88602271  0.34418229  0.33377869  0.98159209  0.52165032  0.02403487
+  0.59779114  0.21680872  0.07065387  0.03238017]
+        Neuron5 weights : [ 0.14129598  0.37804588  0.44212468  0.9274659   0.52302212  0.25877461
+  0.55920116  0.64627565  0.12100094  0.35702237]
+Layer 1:
+        Neuron0 weights : [ 0.08730757  0.15079763  0.08495518  0.15404365  0.65463111  0.60053021]
+        Neuron1 weights : [ 0.33778094  0.51931916  0.88073494  0.11346229  0.75692973  0.01700707]
+        Neuron2 weights : [ 0.80926329  0.02517141  0.54095975  0.98174453  0.08742043  0.51796124]
+        Neuron3 weights : [ 0.17403611  0.22865019  0.54326798  0.36828104  0.69667407  0.30987144]
+        Neuron4 weights : [ 0.96338901  0.02048882  0.62900083  0.24739876  0.21177812  0.01659867]
+        Neuron5 weights : [ 0.6499971   0.97203252  0.94463001  0.10518248  0.76358799  0.12114139]
+        Neuron6 weights : [ 0.4025472   0.64433288  0.48895189  0.89311243  0.38204671  0.2675451 ]
+        Neuron7 weights : [ 0.52355434  0.7743669   0.16685283  0.7216056   0.77699736  0.69309755]
+        Neuron8 weights : [ 0.67408743  0.46184608  0.84263687  0.41194297  0.21081539  0.15763741]
+        Neuron9 weights : [ 0.69335859  0.68745815  0.79555688  0.62388316  0.52331955  0.4053964 ]
+        Neuron10 weights : [ 0.45760951  0.91207974  0.82482048  0.45679001  0.20907403  0.10241261]
+Layer 2:
+        Neuron0 weights : [ 1.05239857  0.05705021]
+        Neuron1 weights : [ 0.46798166  0.26408555]
+        Neuron2 weights : [ 0.4043001   0.38556657]
+        Neuron3 weights : [ 0.92339221  0.80928529]
+        Neuron4 weights : [ 0.18550523  0.28827667]
+        Neuron5 weights : [ 0.9248192   1.00147317]
+        Neuron6 weights : [ 0.1488142   0.65385534]
+Layer 3:
+        Neuron0 weights : [-0.38945861]
+        Neuron1 weights : [-1.18149983]
+        Neuron2 weights : [-0.30007822]
+Total training error = 0.0619232368426
+Total test error = 0.0623068359942
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\car>python network.py car_preprocessed.csv 90 100 3 10 6 2
+Layer 0:
+        Neuron0 weights : [ 0.53051828  0.80054902  0.34167236  0.27216667  0.29905181  0.40257452
+  0.78656085  0.21015563  0.86766133  0.7926685 ]
+        Neuron1 weights : [ 0.74754342  0.28374385  0.16764246  0.63579277  0.03010446  0.9615799
+  0.84127174  0.0388671   0.52605924  0.20028331]
+        Neuron2 weights : [ 0.58064582  0.51462712  0.68241786  0.48596084  0.67406461  0.3578026
+  0.26648387  0.55590863  0.55535724  0.66152949]
+        Neuron3 weights : [ 0.03510315  0.70656104  0.67982037  0.75979996  0.1947181   0.81899473
+  0.51059656  0.82195329  0.18391213  0.43550073]
+        Neuron4 weights : [ 0.58167814  0.29179882  0.25529513  0.21432522  0.79697807  0.83859622
+  0.68066014  0.222451    0.5314159   0.36091403]
+        Neuron5 weights : [ 0.96088754  0.00450127  0.4384671   0.6770051   0.04383733  0.35784596
+  0.56735039  0.3159372   0.52536228  0.57050632]
+Layer 1:
+        Neuron0 weights : [ 0.34473596  0.62286362  0.55379303  0.99963193  0.37539567  0.78922928]
+        Neuron1 weights : [ 0.14928901  0.12187123  0.69209482  0.09692837  0.98339323  0.3577454 ]
+        Neuron2 weights : [ 0.6978877   0.20511891  0.94311526  0.2260271   0.97916519  0.69264949]
+        Neuron3 weights : [ 0.15211979  0.66385842  0.87614467  0.90684407  0.78890995  0.51205918]
+        Neuron4 weights : [ 0.88033226  0.53789861  0.06111615  0.21862086  0.74003827  0.8390523 ]
+        Neuron5 weights : [ 0.03212414  0.7257899   0.40024554  0.3135615   0.63971629  0.53435886]
+        Neuron6 weights : [ 0.09676861  0.07706015  0.97493408  0.2139457   0.66880976  0.11819763]
+        Neuron7 weights : [ 0.26581218  0.12334456  0.41267922  0.27265042  0.44972221  0.35876198]
+        Neuron8 weights : [ 0.51504155  0.02182555  0.99514956  0.99160789  0.34057408  0.40585076]
+        Neuron9 weights : [ 0.44231162  0.95329511  0.95781594  0.17097425  0.60783638  0.83142876]
+        Neuron10 weights : [ 0.51183901  0.49183095  0.56294221  0.45411665  0.7551209   0.91475123]
+Layer 2:
+        Neuron0 weights : [ 0.2391397   0.33914679]
+        Neuron1 weights : [ 0.75910661  0.13433442]
+        Neuron2 weights : [ 0.10785252  0.95938712]
+        Neuron3 weights : [ 0.2437138   0.90502424]
+        Neuron4 weights : [ 0.98973858  0.82581024]
+        Neuron5 weights : [ 0.15073833  0.73813062]
+        Neuron6 weights : [ 0.96927208  0.41915213]
+Layer 3:
+        Neuron0 weights : [-0.74517106]
+        Neuron1 weights : [-0.50114349]
+        Neuron2 weights : [-0.63331289]
+Total training error = 0.0600389752176
+Total test error = 0.0797188856643
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\car>python network.py car_preprocessed.csv 90 20 2 5 2
+Layer 0:
+        Neuron0 weights : [ 0.23421766  0.21892397  1.01289962  0.46004394  0.2694822 ]
+        Neuron1 weights : [ 0.54868388  0.22352804  0.51725197  0.59195168  0.22532207]
+        Neuron2 weights : [ 0.82975134  0.15898997  0.3106656   0.80834736  0.98374766]
+        Neuron3 weights : [ 0.11521271  0.57166905  0.44644911  0.1336621   0.52001027]
+        Neuron4 weights : [ 0.27976392  0.70048539  0.01477006  0.54829659  0.92435718]
+        Neuron5 weights : [ 0.63766289  0.84469044  0.06912284  0.77799613  0.03225379]
+Layer 1:
+        Neuron0 weights : [ 0.35858648  0.63317992]
+        Neuron1 weights : [ 0.5499225  0.1254792]
+        Neuron2 weights : [ 0.35752556  0.73889507]
+        Neuron3 weights : [ 0.02116132  1.03240264]
+        Neuron4 weights : [ 0.0194393   0.41934202]
+        Neuron5 weights : [ 0.84021204  0.95047795]
+Layer 2:
+        Neuron0 weights : [-1.40982511]
+        Neuron1 weights : [ 0.08312681]
+        Neuron2 weights : [-0.48765035]
+Total training error = 0.0616571413686
+Total test error = 0.0652149935583
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\car>python network.py car_preprocessed.csv 80 20 2 3 2
+Layer 0:
+        Neuron0 weights : [ 0.30269003  0.68735423  0.04832662]
+        Neuron1 weights : [ 0.95375113  0.23839741  0.32093215]
+        Neuron2 weights : [ 0.46831043  0.79818637  0.67730859]
+        Neuron3 weights : [ 0.62845085  0.58832967  0.62861616]
+        Neuron4 weights : [ 0.60100335  0.05159632  0.05978687]
+        Neuron5 weights : [ 0.31320559  0.82695117  0.78750267]
+Layer 1:
+        Neuron0 weights : [ 0.40327808  0.09252715]
+        Neuron1 weights : [ 0.26451813  0.34238512]
+        Neuron2 weights : [ 0.27388729  0.77774309]
+        Neuron3 weights : [ 0.45365619  0.65033807]
+Layer 2:
+        Neuron0 weights : [-1.20343354]
+        Neuron1 weights : [-0.59945048]
+        Neuron2 weights : [-0.26401157]
+Total training error = 0.0608866247101
+Total test error = 0.0665175340128
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\car>python network.py car_preprocessed.csv 80 20 2 3 1
+Layer 0:
+        Neuron0 weights : [ 0.49729102  0.73841963  0.57285999]
+        Neuron1 weights : [ 0.00095465  0.85727744  0.55765225]
+        Neuron2 weights : [ 0.71075946  0.68592036  0.34417004]
+        Neuron3 weights : [ 0.59747602  0.35762003  0.15866328]
+        Neuron4 weights : [ 0.68202851  0.3757265   0.58755322]
+        Neuron5 weights : [ 0.42377499  0.67572185  0.32144115]
+Layer 1:
+        Neuron0 weights : [ 0.51819427]
+        Neuron1 weights : [ 0.79352269]
+        Neuron2 weights : [ 0.08587894]
+        Neuron3 weights : [ 0.00660654]
+Layer 2:
+        Neuron0 weights : [-1.089961]
+        Neuron1 weights : [-1.02029165]
+Total training error = 0.0602205897158
+Total test error = 0.0691561718654
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\car>python network.py car_preprocessed.csv 85 10 2 3 1
+Layer 0:
+        Neuron0 weights : [ 0.55894806  0.98762508  0.48543171]
+        Neuron1 weights : [ 0.80386384  0.54406892  0.98019595]
+        Neuron2 weights : [ 0.22193255  0.74125571  0.84817081]
+        Neuron3 weights : [ 0.90868321  0.80081727  0.45644197]
+        Neuron4 weights : [ 0.14479091  0.32629462  0.11536506]
+        Neuron5 weights : [ 0.25372634  0.3136691   0.50087615]
+Layer 1:
+        Neuron0 weights : [ 0.82395331]
+        Neuron1 weights : [ 0.99485053]
+        Neuron2 weights : [ 0.67305213]
+        Neuron3 weights : [ 0.68007336]
+Layer 2:
+        Neuron0 weights : [-0.91553239]
+        Neuron1 weights : [-1.01730976]
+Total training error = 0.0606004214863
+Total test error = 0.0701837306498
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\car>python network.py car_preprocessed.csv 85 10 2 4 2
+Layer 0:
+        Neuron0 weights : [ 0.27309     0.57744323  0.0592593   0.13049669]
+        Neuron1 weights : [ 0.50648326  0.09830282  0.3019052   0.67134055]
+        Neuron2 weights : [ 0.11030668  0.474817    0.44670805  0.48606035]
+        Neuron3 weights : [ 0.92468072  0.7327172   0.81607086  0.06914877]
+        Neuron4 weights : [ 0.07928166  0.31805646  0.57643333  0.7822639 ]
+        Neuron5 weights : [ 0.1222326   0.26463399  0.4362111   0.82452907]
+Layer 1:
+        Neuron0 weights : [ 0.66436509  0.96175701]
+        Neuron1 weights : [ 0.41506382  0.89616092]
+        Neuron2 weights : [ 0.44243232  0.70818377]
+        Neuron3 weights : [ 0.30466264  0.93276638]
+        Neuron4 weights : [ 0.01520642  0.04383258]
+Layer 2:
+        Neuron0 weights : [-0.68483909]
+        Neuron1 weights : [-0.56959491]
+        Neuron2 weights : [-0.76991842]
+Total training error = 0.0605664804896
+Total test error = 0.0703421740522
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\car>python network.py car_preprocessed.csv 80 10 2 4 2
+Layer 0:
+        Neuron0 weights : [ 0.34394717  0.13308669  0.23314407  0.66070478]
+        Neuron1 weights : [ 0.34009137  0.64003331  0.74686884  0.59565272]
+        Neuron2 weights : [ 0.04158347  0.38779049  0.53296826  0.92367841]
+        Neuron3 weights : [ 0.30598675  0.64109289  0.67717377  0.00867594]
+        Neuron4 weights : [ 0.44787687  0.83774676  0.79310445  0.30698079]
+        Neuron5 weights : [ 0.94586966  0.5265626   0.42073995  0.82106585]
+Layer 1:
+        Neuron0 weights : [ 0.18371932  0.96023572]
+        Neuron1 weights : [ 0.71956089  0.49172224]
+        Neuron2 weights : [ 0.4362601   0.30781075]
+        Neuron3 weights : [ 0.13009802  0.78529069]
+        Neuron4 weights : [ 0.01719786  0.34617283]
+Layer 2:
+        Neuron0 weights : [-1.10752878]
+        Neuron1 weights : [-0.37284428]
+        Neuron2 weights : [-0.52605005]
+Total training error = 0.0601828194422
+Total test error = 0.0692952253363
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\car>
