@@ -1,0 +1,300 @@
+        Neuron0 weights : [ 0.88344876  0.53472673  0.5628669 ]
+        Neuron1 weights : [ 0.8917234   0.00954392  0.37311442]
+        Neuron2 weights : [ 0.87946279  0.18987135  0.5928973 ]
+        Neuron3 weights : [ 0.66917986  0.16547765  0.59353504]
+        Neuron4 weights : [ 0.98665711  0.10565699  0.42706733]
+Layer 1:
+        Neuron0 weights : [ 0.98010421]
+        Neuron1 weights : [ 0.461956]
+        Neuron2 weights : [ 0.99610173]
+        Neuron3 weights : [ 0.28938619]
+Layer 2:
+        Neuron0 weights : [ 0.26343878]
+        Neuron1 weights : [-0.19372716]
+Total training error = 0.163229330211
+Total test error = 0.178634847146
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\iris>python network.py iris_preprocessed.csv 70 20 2 4 2
+Layer 0:
+        Neuron0 weights : [ 0.31547273  0.11997297  0.32873629  0.55267724]
+        Neuron1 weights : [ 0.5881211   0.5613816   0.65410196  0.65372358]
+        Neuron2 weights : [ 0.24021891  0.65287585  0.90960183  0.32453783]
+        Neuron3 weights : [ 0.03908078  0.98590999  0.84244399  0.41900931]
+        Neuron4 weights : [ 0.36550702  0.79120445  0.96679406  0.91320829]
+Layer 1:
+        Neuron0 weights : [ 0.44798933  0.41879941]
+        Neuron1 weights : [ 0.10264789 -0.04028096]
+        Neuron2 weights : [ 0.8540427  -0.01357334]
+        Neuron3 weights : [ 0.35302228  0.58826336]
+        Neuron4 weights : [ 0.94838428  0.89842268]
+Layer 2:
+        Neuron0 weights : [-0.26238283]
+        Neuron1 weights : [ 0.29898352]
+        Neuron2 weights : [ 0.35814982]
+Total training error = 0.165035760694
+Total test error = 0.185142174743
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\iris>python network.py iris_preprocessed.csv 65 20 2 4 2
+Layer 0:
+        Neuron0 weights : [ 0.24836197  0.58024618  0.36580825  0.43458223]
+        Neuron1 weights : [ 0.82357191  0.03918427  0.93572204  0.57593681]
+        Neuron2 weights : [ 0.72944771  0.58802681  0.28469107  0.56699194]
+        Neuron3 weights : [ 0.91658384  0.74545787  0.48022302  0.72593324]
+        Neuron4 weights : [ 0.38246257  0.05045414  0.4456856   0.49146817]
+Layer 1:
+        Neuron0 weights : [ 0.61184038  0.90367698]
+        Neuron1 weights : [ 0.95000525  0.69873258]
+        Neuron2 weights : [ 0.49261117  0.7244489 ]
+        Neuron3 weights : [ 0.34798192  0.69969621]
+        Neuron4 weights : [ 0.88438143  0.45520568]
+Layer 2:
+        Neuron0 weights : [-0.19510764]
+        Neuron1 weights : [ 0.08761313]
+        Neuron2 weights : [ 0.04215342]
+Total training error = 0.160731959335
+Total test error = 0.178186893545
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\iris>python network.py iris_preprocessed.csv 78 50 2 4 2
+Layer 0:
+        Neuron0 weights : [ 0.76741487  0.26591206  0.0143942   0.71956902]
+        Neuron1 weights : [ 0.37863592  0.59642432  0.32710498  0.54928713]
+        Neuron2 weights : [ 0.23256599  0.05795602  0.40677262  0.08398867]
+        Neuron3 weights : [ 0.33311582  0.0331382   0.14754346  0.15367797]
+        Neuron4 weights : [ 0.67865629  0.94044127  0.34249496  0.83173435]
+Layer 1:
+        Neuron0 weights : [ 0.84115149  0.62610896]
+        Neuron1 weights : [ 0.2529081   0.16013621]
+        Neuron2 weights : [ 0.03188313  0.53455824]
+        Neuron3 weights : [-0.00390486  0.66128984]
+        Neuron4 weights : [ 0.14081662  0.22936063]
+Layer 2:
+        Neuron0 weights : [-0.5588226]
+        Neuron1 weights : [ 0.0937511]
+        Neuron2 weights : [ 0.49513226]
+Total training error = 0.161899691739
+Total test error = 0.189397959543
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\iris>python network.py iris_preprocessed.csv 78 100 2 4 2
+Layer 0:
+        Neuron0 weights : [ 0.26038441  0.28650594  0.60158846  0.29463143]
+        Neuron1 weights : [ 0.90486944  0.64654719  1.07158085  0.81645373]
+        Neuron2 weights : [ 0.75590073  0.11641909  0.37480237  0.87963015]
+        Neuron3 weights : [ 0.95720554  0.19030737  0.33366893  0.24894526]
+        Neuron4 weights : [ 1.07036453  0.58591559  0.55651683  0.91512208]
+Layer 1:
+        Neuron0 weights : [-0.1932536   0.04244598]
+        Neuron1 weights : [ 0.52035944  0.81404282]
+        Neuron2 weights : [ 0.43477437  0.30315975]
+        Neuron3 weights : [ 0.94769476  0.11967103]
+        Neuron4 weights : [ 0.24582617  0.21182768]
+Layer 2:
+        Neuron0 weights : [-0.91278368]
+        Neuron1 weights : [ 1.03224616]
+        Neuron2 weights : [ 0.44300718]
+Total training error = 0.163914154732
+Total test error = 0.196494525089
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\iris>python network.py iris_preprocessed.csv 78 100 2 4 2
+Layer 0:
+        Neuron0 weights : [ 0.58120836  0.87739317  0.94232667  0.00744915]
+        Neuron1 weights : [ 0.04971317  0.91432496  0.94518695  0.58786268]
+        Neuron2 weights : [ 0.41918879  0.02869972  0.54759755  0.85679559]
+        Neuron3 weights : [ 0.07359817  0.67920661  0.14608154  0.295243  ]
+        Neuron4 weights : [ 0.31434203  0.71550996  0.81130708  0.48814766]
+Layer 1:
+        Neuron0 weights : [ 0.38581696  0.37230904]
+        Neuron1 weights : [ 0.52179025  0.09280678]
+        Neuron2 weights : [ 0.09479619  0.62580771]
+        Neuron3 weights : [ 0.16769569  0.27660238]
+        Neuron4 weights : [ 0.95985694  0.1420264 ]
+Layer 2:
+        Neuron0 weights : [ 0.04747371]
+        Neuron1 weights : [ 0.08014511]
+        Neuron2 weights : [ 0.04449663]
+Total training error = 0.171108196905
+Total test error = 0.157111235125
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\iris>python network.py iris_preprocessed.csv 78 10 2 2 1
+Layer 0:
+        Neuron0 weights : [ 0.01028328  0.89109353]
+        Neuron1 weights : [ 0.58707158  0.21270621]
+        Neuron2 weights : [ 0.20929053  0.22531268]
+        Neuron3 weights : [ 0.1869316   0.05991521]
+        Neuron4 weights : [ 0.59676445  0.13869083]
+Layer 1:
+        Neuron0 weights : [ 0.67213603]
+        Neuron1 weights : [ 0.49669564]
+        Neuron2 weights : [ 0.10210545]
+Layer 2:
+        Neuron0 weights : [ 0.04160261]
+        Neuron1 weights : [ 0.17004121]
+Total training error = 0.176821600596
+Total test error = 0.138011883326
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\iris>python network.py iris_preprocessed.csv 78 10 2 2 1
+Layer 0:
+        Neuron0 weights : [ 0.18432579  0.68558814]
+        Neuron1 weights : [ 0.54245143  0.39910507]
+        Neuron2 weights : [ 0.2607935   0.60531571]
+        Neuron3 weights : [ 0.51301997  0.97749488]
+        Neuron4 weights : [ 0.02849814  0.79432221]
+Layer 1:
+        Neuron0 weights : [-0.08909608]
+        Neuron1 weights : [ 0.10838098]
+        Neuron2 weights : [ 0.67599432]
+Layer 2:
+        Neuron0 weights : [ 0.39287079]
+        Neuron1 weights : [ 0.58474938]
+Total training error = 0.204478554429
+Total test error = 0.176180719849
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\iris>python network.py iris_preprocessed.csv 78 10 2 2 1
+Layer 0:
+        Neuron0 weights : [ 0.94091919  0.16600454]
+        Neuron1 weights : [ 0.52533694  0.03123735]
+        Neuron2 weights : [ 0.22616996  0.58302886]
+        Neuron3 weights : [ 0.07081161  0.48997749]
+        Neuron4 weights : [ 0.86167817  0.5605259 ]
+Layer 1:
+        Neuron0 weights : [ 0.52001223]
+        Neuron1 weights : [ 0.27355145]
+        Neuron2 weights : [ 0.11346023]
+Layer 2:
+        Neuron0 weights : [ 0.35645892]
+        Neuron1 weights : [ 0.06250679]
+Total training error = 0.170455957518
+Total test error = 0.197434266479
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\iris>python network.py iris_preprocessed.csv 78 10 2 2 1
+Layer 0:
+        Neuron0 weights : [ 0.41491194  0.07264818]
+        Neuron1 weights : [ 0.32733469  0.32134309]
+        Neuron2 weights : [ 0.04834171  0.577592  ]
+        Neuron3 weights : [ 0.60106536  0.67710072]
+        Neuron4 weights : [ 0.64752064  0.96430444]
+Layer 1:
+        Neuron0 weights : [ 0.90453814]
+        Neuron1 weights : [ 0.43843338]
+        Neuron2 weights : [ 0.71447843]
+Layer 2:
+        Neuron0 weights : [-0.08628756]
+        Neuron1 weights : [ 0.63587602]
+Total training error = 0.182783387505
+Total test error = 0.158366250266
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\iris>python network.py iris_preprocessed.csv 75 10 2 4 1
+Layer 0:
+        Neuron0 weights : [ 0.86362914  0.5866662   0.76305688  0.33789131]
+        Neuron1 weights : [ 0.47410734  0.18869791  0.96009964  0.4006484 ]
+        Neuron2 weights : [ 0.17088935  0.83149438  0.34899401  0.81515892]
+        Neuron3 weights : [ 1.00804932  0.44945836  0.49344463  0.80266484]
+        Neuron4 weights : [ 0.88575272  0.02998771  0.62650056  0.10050562]
+Layer 1:
+        Neuron0 weights : [-0.07781106]
+        Neuron1 weights : [ 0.58620955]
+        Neuron2 weights : [ 0.23687311]
+        Neuron3 weights : [ 0.19787274]
+        Neuron4 weights : [ 0.18409492]
+Layer 2:
+        Neuron0 weights : [-0.08873614]
+        Neuron1 weights : [ 0.76044258]
+Total training error = 0.173079061382
+Total test error = 0.184104033826
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\iris>python network.py iris_preprocessed.csv 70 20 2 4 1
+Layer 0:
+        Neuron0 weights : [ 0.83012174  0.51262848  0.59364713  0.2374314 ]
+        Neuron1 weights : [ 0.03236615  0.57094941  0.02522865  0.45948581]
+        Neuron2 weights : [ 0.2550373   0.27716199  0.07665193  0.2864575 ]
+        Neuron3 weights : [ 0.12511299  0.82270164  0.48488833  0.4982185 ]
+        Neuron4 weights : [ 0.46526232  0.94273253  0.47430365  0.92988083]
+Layer 1:
+        Neuron0 weights : [ 0.05986366]
+        Neuron1 weights : [ 0.13427985]
+        Neuron2 weights : [ 0.12177795]
+        Neuron3 weights : [ 0.2742724]
+        Neuron4 weights : [ 0.77444041]
+Layer 2:
+        Neuron0 weights : [ 0.01953312]
+        Neuron1 weights : [ 0.28736694]
+Total training error = 0.163097940821
+Total test error = 0.185515383355
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\iris>python network.py iris_preprocessed.csv 70 20 2 4 1
+Layer 0:
+        Neuron0 weights : [ 0.87827524  0.64837429  0.76287957  0.6694093 ]
+        Neuron1 weights : [ 0.91530344  0.61990616  0.91222586  0.98795311]
+        Neuron2 weights : [ 0.10708954  0.60796182  0.6430941   0.70817988]
+        Neuron3 weights : [ 0.0838779   0.15216892  0.58886554  0.7885459 ]
+        Neuron4 weights : [ 0.27801659  0.95036792  0.37655775  0.3842314 ]
+Layer 1:
+        Neuron0 weights : [ 0.58452129]
+        Neuron1 weights : [ 0.50797396]
+        Neuron2 weights : [ 0.72641969]
+        Neuron3 weights : [ 0.7587656]
+        Neuron4 weights : [ 0.78751358]
+Layer 2:
+        Neuron0 weights : [ 0.22941142]
+        Neuron1 weights : [-0.10955675]
+Total training error = 0.16484379425
+Total test error = 0.175869053618
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\iris>python network.py iris_preprocessed.csv 70 20 2 4 1
+Layer 0:
+        Neuron0 weights : [ 0.11202589  0.58247182  0.37675305 -0.00448709]
+        Neuron1 weights : [ 0.37283798  0.98950445  0.94634153  0.86667821]
+        Neuron2 weights : [ 0.58592147  0.02668493  0.04897687  0.62090405]
+        Neuron3 weights : [ 0.49465891  0.62921605  0.09088034  0.02300442]
+        Neuron4 weights : [ 0.09113203  0.50780642  0.79206505  0.36959498]
+Layer 1:
+        Neuron0 weights : [ 0.5971016]
+        Neuron1 weights : [ 0.39338906]
+        Neuron2 weights : [ 0.3777822]
+        Neuron3 weights : [ 0.6238378]
+        Neuron4 weights : [ 0.2773722]
+Layer 2:
+        Neuron0 weights : [-0.19038528]
+        Neuron1 weights : [ 0.6074015]
+Total training error = 0.147533607187
+Total test error = 0.22643256535
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\iris>python network.py iris_preprocessed.csv 70 20 2 4 1
+Layer 0:
+        Neuron0 weights : [ 0.77003126  0.46598161  0.77329555  0.4355125 ]
+        Neuron1 weights : [ 0.07765129  0.6196583   0.18075351  0.31787038]
+        Neuron2 weights : [ 0.64436283  0.69666433  0.84925011  0.54114153]
+        Neuron3 weights : [ 0.21790122  0.99108269  0.91662423  0.95768554]
+        Neuron4 weights : [ 0.23371813  0.29613076  0.83513983  0.46670035]
+Layer 1:
+        Neuron0 weights : [ 0.66050446]
+        Neuron1 weights : [ 0.6952488]
+        Neuron2 weights : [ 0.74869116]
+        Neuron3 weights : [ 0.0097884]
+        Neuron4 weights : [ 0.56539044]
+Layer 2:
+        Neuron0 weights : [ 0.40630624]
+        Neuron1 weights : [-0.13177594]
+Total training error = 0.161483399901
+Total test error = 0.197162190714
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\iris>python network.py iris_preprocessed.csv 80 20 2 4 2
+Layer 0:
+        Neuron0 weights : [ 0.78038705  0.23595616  0.13102132  0.47687878]
+        Neuron1 weights : [ 0.10284048  0.81020721  0.73777295  0.82029348]
+        Neuron2 weights : [ 0.40107361  0.83041694  0.85972813  0.28811945]
+        Neuron3 weights : [ 0.92311176  0.27647467  0.48293642  0.68486217]
+        Neuron4 weights : [ 0.68181822  0.6607356   0.27905715  0.82223841]
+Layer 1:
+        Neuron0 weights : [ 0.17217487 -0.12112879]
+        Neuron1 weights : [ 0.65912941  0.50184771]
+        Neuron2 weights : [ 0.71566692  0.37130985]
+        Neuron3 weights : [ 0.72584185  0.00593025]
+        Neuron4 weights : [ 0.80759251  0.41167312]
+Layer 2:
+        Neuron0 weights : [ 0.14803635]
+        Neuron1 weights : [-0.3130134]
+        Neuron2 weights : [ 0.45068596]
+Total training error = 0.168814224496
+Total test error = 0.168504220033
+
+C:\Users\Sreevatsa H V\Desktop\Assign3\DATA\iris>
